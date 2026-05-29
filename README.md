@@ -4,7 +4,7 @@
 <!--   Replace the src below with your hosted image URL          -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://github.com/Braga93/Braga93/blob/main/5cdf291c9b71e3b5a8dfbe40475bac30.jpg" width="100%" alt="Yharnam at night"/>
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Yharnam at night"/>
 </div>
 
 <br/>
@@ -35,15 +35,9 @@
 
 ---
 
-<!-- CHARACTER IMAGE — right-aligned -->
-<!--   📸 PHOTO TIP → Use Image 3 (hunter in tricorn hat)        -->
-<!--   Best placement: floated right beside the About section     -->
-
-<div align="center" style="float:right; margin: 0 0 16px 24px; border:0; outline:0; line-height:0;">
-  <img width="220px" src="https://github.com/Braga93/Braga93/blob/main/7d942979ec25eaa861c49eece484fe4c.jpg" alt="The Hunter" style="border:0; outline:0; display:block;"/>
-</div>
-
 ## The Hunter's Ledger
+
+<img align="right" width="240px" src="https://github.com/Braga93/Braga93/blob/main/7d942979ec25eaa861c49eece484fe4c.jpg?raw=true" alt="The Hunter"/>
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
@@ -53,8 +47,6 @@ Currently sharpening my blade in **JavaScript**, **React**, **Node.js** and **Ex
 
 I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and **Git** with confidence, and I refuse to go hollow no matter how deep the rabbit hole goes.
 
-<br clear="right"/>
-
 ```
 ◈  Class      →  Full-Stack Developer (Front-End · Back-End)
 ◈  Origin     →  Brazil 🇧🇷
@@ -63,6 +55,8 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 ◈  Loadout    →  JS · React · Node · Express · Cypress
 ◈  Status     →  Hunting bugs. Refusing to go hollow.
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -94,14 +88,17 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 
 <img src="https://streak-stats.demolab.com?user=Braga93&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="GitHub Streak"/>
 
-<br/><br/>
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Braga93&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braga93&layout=compact&langs_count=6&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<br/>
 
+<div align="center">
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Braga93&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false&rank_icon=github&card_width=320"/>
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Braga93&layout=donut&langs_count=6&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&card_width=320"/>
 </div>
 
 ---
+
 ## 📜 Blood Trail — Contribution Graph
 
 <div align="center">
@@ -116,7 +113,7 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 <!--   📸 PHOTO TIP → Use Image 2 (moonlit manor with fog)        -->
 <!--   Best placement: right here, between sections as a divider  -->
 <div align="center">
-  <img src="https://github.com/Braga93/Braga93/blob/main/47a716b17698921ec62d97083457dbe6.jpg" width="85%" alt="Scene from the Hunt"/>
+  <img src="YOUR_SCENE_DIVIDER_IMAGE_URL_HERE" width="85%" alt="Scene from the Hunt"/>
 </div>
 
 ---
