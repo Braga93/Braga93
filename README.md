@@ -113,7 +113,7 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 <!--   📸 PHOTO TIP → Use Image 2 (moonlit manor with fog)        -->
 <!--   Best placement: right here, between sections as a divider  -->
 <div align="center">
-  <img src="YOUR_SCENE_DIVIDER_IMAGE_URL_HERE" width="85%" alt="Scene from the Hunt"/>
+  <img src="https://github.com/Braga93/Braga93/blob/main/47a716b17698921ec62d97083457dbe6.jpg" width="85%" alt="Scene from the Hunt"/>
 </div>
 
 ---
