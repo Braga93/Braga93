@@ -4,7 +4,7 @@
 <!--   Replace the src below with your hosted image URL          -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://github.com/Braga93/Braga93/blob/main/5cdf291c9b71e3b5a8dfbe40475bac30.jpg" width="100%" alt="Yharnam at night"/>
+  <img src="https://github.com/Braga93/Braga93/blob/main/Gemini_Generated_Image_oa2uouoa2uouoa2u.png" width="100%" alt="Yharnam at night"/>
 </div>
 
 <br/>
