@@ -39,7 +39,9 @@
 <!--   📸 PHOTO TIP → Use Image 3 (hunter in tricorn hat)        -->
 <!--   Best placement: floated right beside the About section     -->
 
-<img align="right" width="220px" src="YOUR_CHARACTER_IMAGE_URL_HERE" alt="The Hunter"/>
+<div align="right" style="float:right; margin: 0 0 16px 24px; border:0; outline:0; line-height:0;">
+  <img width="220px" src="YOUR_CHARACTER_IMAGE_URL_HERE" alt="The Hunter" style="border:0; outline:0; display:block;"/>
+</div>
 
 ## The Hunter's Ledger
 
