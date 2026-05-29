@@ -96,13 +96,12 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Braga93&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braga93&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Braga93&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braga93&layout=compact&langs_count=6&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
 ---
-
 ## 📜 Blood Trail — Contribution Graph
 
 <div align="center">
@@ -117,7 +116,7 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 <!--   📸 PHOTO TIP → Use Image 2 (moonlit manor with fog)        -->
 <!--   Best placement: right here, between sections as a divider  -->
 <div align="center">
-  <img src="YOUR_SCENE_DIVIDER_IMAGE_URL_HERE" width="85%" alt="Scene from the Hunt"/>
+  <img src="https://github.com/Braga93/Braga93/blob/main/47a716b17698921ec62d97083457dbe6.jpg" width="85%" alt="Scene from the Hunt"/>
 </div>
 
 ---
