@@ -11,7 +11,7 @@
 
 <!-- TYPING TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Fear+the+old+blood.;The+night+is+long.+The+code+endures.;We+are+born+of+the+blood." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Fear+the+old+blood.;May+you+find+your+worth+.in+the+walking+world.;We+are+born+of+the+blood." alt="Typing SVG"/>
 </div>
 
 <br/>
