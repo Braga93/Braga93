@@ -39,8 +39,8 @@
 <!--   📸 PHOTO TIP → Use Image 3 (hunter in tricorn hat)        -->
 <!--   Best placement: floated right beside the About section     -->
 
-<div align="right" style="float:right; margin: 0 0 16px 24px; border:0; outline:0; line-height:0;">
-  <img width="220px" src="YOUR_CHARACTER_IMAGE_URL_HERE" alt="The Hunter" style="border:0; outline:0; display:block;"/>
+<div align="center" style="float:right; margin: 0 0 16px 24px; border:0; outline:0; line-height:0;">
+  <img width="220px" src="https://github.com/Braga93/Braga93/blob/main/7d942979ec25eaa861c49eece484fe4c.jpg" alt="The Hunter" style="border:0; outline:0; display:block;"/>
 </div>
 
 ## The Hunter's Ledger
