@@ -122,10 +122,10 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 
 | | Course | Platform | Status |
 |:---:|:---|:---:|:---:|
-| ◈ | SEU CURSO 1 | Platform | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | Platform | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | Platform | ✅ Complete |
-| ◈ | SEU CURSO 4 | Platform | ✅ Complete |
+| ◈ | HTML5 | Digital College | 🔄 In Progress |
+| ◈ | Javascript | Platform | 🔄 In Progress |
+| ◈ | CSS | Platform | 🔄 In Progress |
+| ◈ | React | Platform | 🔄 In Progress |
 
 ---
 
