@@ -1,87 +1,3 @@
-<!-- ============================================================ -->
-<!--                        BANNER IMAGE                         -->
-<!--   📸 PHOTO TIP → Use Image 1 (dark gothic cathedral)        -->
-<!--   Replace the src below with your hosted image URL          -->
-<!-- ============================================================ -->
-<div align="center">
-  <img src="https://github.com/Braga93/Braga93/blob/main/banner%20head.png" width="100%" alt="Yharnam at night"/>
-</div>
-
-<br/>
-
-<!-- TYPING TITLE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Fear+the+old+blood.;May+you+find+your+Worth+in+the+Walking+World.;We+are+born+of+the+blood." alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=flat-square&logo=vercel&logoColor=c9a84c)](https://SEU_PORTFOLIO.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-161b22?style=flat-square&logo=github&logoColor=c9a84c)](https://github.com/Braga93)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Braga93&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## The Hunter's Ledger
-
-<img align="right" width="240px" src="https://github.com/Braga93/Braga93/blob/main/7d942979ec25eaa861c49eece484fe4c.jpg?raw=true" alt="The Hunter"/>
-
-> *"We are born of the blood, made men by the blood, undone by the blood."*
-
-**Full-Stack Developer** forged in the flames of countless builds and debug sessions — proficient across the entire stack, from pixel-perfect interfaces to robust server-side logic.
-
-Currently sharpening my blade in **JavaScript**, **React**, **Node.js** and **Express.js**, weaving these tools into real-world projects — APIs, automation bots, web platforms and test suites.
-
-I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and **Git** with confidence, and I refuse to go hollow no matter how deep the rabbit hole goes.
-
-```
-◈  Class      →  Full-Stack Developer (Front-End · Back-End)
-◈  Origin     →  Brazil 🇧🇷
-◈  Covenant   →  Open Source
-◈  Build      →  INT / DEX / STR
-◈  Loadout    →  JS · React · Node · Express · Cypress
-◈  Status     →  Hunting bugs. Refusing to go hollow.
-```
-
-<br clear="right"/>
-
----
-
-## ⚔️ Arsenal — Technologies
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
-![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express&logoColor=c9a84c)
-![NPM](https://img.shields.io/badge/NPM-111?style=for-the-badge&logo=npm&logoColor=c9a84c)
-![DOM](https://img.shields.io/badge/DOM-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![REST API](https://img.shields.io/badge/REST_API-111?style=for-the-badge&logo=fastapi&logoColor=c9a84c)
-![Cypress](https://img.shields.io/badge/Cypress-111?style=for-the-badge&logo=cypress&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
-
-</div>
-
----
-
 ## 📊 The Hunt's Record — Statistics
 
 <div align="center">
@@ -93,8 +9,8 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 <br/>
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Braga93&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false&rank_icon=github&card_width=320"/>
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Braga93&layout=donut&langs_count=6&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&card_width=320"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Braga93&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false&rank_icon=github&card_width=320"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braga93&layout=donut&langs_count=6&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&card_width=320"/>
 </div>
 
 ---
@@ -109,44 +25,12 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 
 ---
 
-<!-- SCENE DIVIDER IMAGE -->
-<!--   📸 PHOTO TIP → Use Image 2 (moonlit manor with fog)        -->
-<!--   Best placement: right here, between sections as a divider  -->
-<div align="center">
-  <img src="https://github.com/Braga93/Braga93/blob/main/banner%20foot.png" width="85%" alt="Scene from the Hunt"/>
-</div>
-
----
-
-## 🕯️ Bonfires Lit — Education
-
-| | Course | Platform | Status |
-|:---:|:---|:---:|:---:|
-| ◈ | HTML5 | Digital College | 🔄 In Progress |
-| ◈ | Javascript | Platform | 🔄 In Progress |
-| ◈ | CSS | Platform | 🔄 In Progress |
-| ◈ | React | Platform | 🔄 In Progress |
-
----
-
 ## 🗡️ Featured Projects — The Grimoire
 
 <div align="center">
 
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=Braga93&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Braga93/SEU_REPO)
+[![Site-Nike](https://github-readme-stats.vercel.app/api/pin/?username=Braga93&repo=Site-Nike&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Braga93/Site-Nike)
 
-[![SEU_REPO_2](https://github-readme-stats.vercel.app/api/pin/?username=Braga93&repo=SEU_REPO_2&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Braga93/SEU_REPO_2)
-
-</div>
-
----
-
-<div align="center">
-
-*† We are born of the blood. Made men by the blood. Undone by the blood. †*
-
-<br/>
-
-*† Seek Paleblood to transcend the Hunt †*
+[![braga-effects-library](https://github-readme-stats.vercel.app/api/pin/?username=Braga93&repo=braga-effects-library&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Braga93/braga-effects-library)
 
 </div>
