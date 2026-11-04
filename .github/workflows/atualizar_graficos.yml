@@ -1,0 +1,36 @@
+name: Atualizar gráficos do perfil
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # todo dia, de madrugada
+  workflow_dispatch:        # permite rodar na mão, na aba Actions
+  push:
+    paths:
+      - "scripts/gerar_graficos.py"
+      - ".github/workflows/atualizar_graficos.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar os gráficos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gerar_graficos.py
+
+      - name: Salvar, se algo mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet || git commit -m "chore: atualiza os gráficos do perfil"
+          git push

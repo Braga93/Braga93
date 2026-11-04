@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Resumo do GitHub, aguardando a primeira atualização">
+<title>Resumo do GitHub, aguardando a primeira atualização</title>
+<style>
+text { font-family: 'IM Fell English SC', Georgia, 'Times New Roman', serif; }
+.t { fill: #c9a84c; font-size: 15px; letter-spacing: 1.5px; }
+.n { fill: #cccccc; font-size: 13px; }
+.f { fill: #888888; font-size: 11px; }
+.g { fill: #c9a84c; font-size: 30px; }
+.o { fill: #c9a84c; font-size: 11px; }
+</style>
+<rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#0d0d0d" stroke="#2a2a2a"/>
+<text x="20" y="30" class="t">◈ Registro da Caçada</text>
+<line x1="20" y1="42" x2="475" y2="42" stroke="#c9a84c" stroke-opacity="0.35"/>
+<text x="20" y="107" class="f">Gerado automaticamente. Aguardando a primeira atualização.</text>
+</svg>

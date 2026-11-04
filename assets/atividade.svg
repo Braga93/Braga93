@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="120" viewBox="0 0 850 120" role="img" aria-label="Calendário de contribuições, aguardando a primeira atualização">
+<title>Calendário de contribuições, aguardando a primeira atualização</title>
+<style>
+text { font-family: 'IM Fell English SC', Georgia, 'Times New Roman', serif; }
+.t { fill: #c9a84c; font-size: 15px; letter-spacing: 1.5px; }
+.n { fill: #cccccc; font-size: 13px; }
+.f { fill: #888888; font-size: 11px; }
+.g { fill: #c9a84c; font-size: 30px; }
+.o { fill: #c9a84c; font-size: 11px; }
+</style>
+<rect x="0.5" y="0.5" width="849" height="119" rx="8" fill="#0d0d0d" stroke="#2a2a2a"/>
+<text x="20" y="30" class="t">◈ Contribuições</text>
+<line x1="20" y1="42" x2="830" y2="42" stroke="#c9a84c" stroke-opacity="0.35"/>
+<text x="20" y="70" class="f">Gerado automaticamente. Aguardando a primeira atualização.</text>
+</svg>
