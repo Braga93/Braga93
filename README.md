@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=760&lines=Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;Temam+o+sangue+antigo.;Que+voc%C3%AA+encontre+seu+valor+no+Mundo+Desperto.;Nascemos+do+sangue." alt="Frases animadas do perfil"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Training;Fear+the+old+blood.;May+you+find+your+Worth+in+the+Walking+World.;We+are+born+of+the+blood." alt="Frases animadas do perfil"/>
 </div>
 
 <br/>
