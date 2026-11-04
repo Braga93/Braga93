@@ -77,8 +77,11 @@ def buscar_dados():
         pagina += 1
     proprios = [r for r in repos if not r["fork"] and not r["private"]]
 
+    # O repositório do perfil guarda só este script e as imagens, então não entra na conta de linguagens.
     linguagens = {}
     for repo in proprios:
+        if repo["name"].lower() == DONO.lower():
+            continue
         for nome, bytes_ in requisitar(repo["languages_url"]).items():
             linguagens[nome] = linguagens.get(nome, 0) + bytes_
 
