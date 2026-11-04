@@ -69,8 +69,8 @@ Já estudei e domino **React**, **Node.js** e **Express.js**.
 ## 📊 O Registro da Caçada — Estatísticas
 
 <div align="center">
-  <img src="assets/resumo.svg" width="49%" alt="Resumo: repositórios públicos, commits no último ano e sequências de dias"/>
-  <img src="assets/linguagens.svg" width="49%" alt="Linguagens mais usadas nos repositórios públicos"/>
+  <img src="https://raw.githubusercontent.com/Braga93/Braga93/graficos/resumo.svg" width="49%" alt="Resumo: repositórios públicos, commits no último ano e sequências de dias"/>
+  <img src="https://raw.githubusercontent.com/Braga93/Braga93/graficos/linguagens.svg" width="49%" alt="Linguagens mais usadas nos repositórios públicos"/>
 </div>
 
 ---
@@ -78,7 +78,7 @@ Já estudei e domino **React**, **Node.js** e **Express.js**.
 ## 📜 Contribuições
 
 <div align="center">
-  <img src="assets/atividade.svg" width="100%" alt="Calendário de contribuições dos últimos 12 meses"/>
+  <img src="https://raw.githubusercontent.com/Braga93/Braga93/graficos/atividade.svg" width="100%" alt="Calendário de contribuições dos últimos 12 meses"/>
 </div>
 
 ---
@@ -97,8 +97,8 @@ Já estudei e domino **React**, **Node.js** e **Express.js**.
 ## 🗡️ Grimório — Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/Braga93/braga_effects_library"><img src="assets/projeto_braga_effects_library.svg" width="49%" alt="braga_effects_library: biblioteca aberta de efeitos CSS e utilitários JavaScript em português"/></a>
-  <a href="https://github.com/Braga93/nike_site_js"><img src="assets/projeto_nike_site_js.svg" width="49%" alt="nike_site_js: réplica autoral de uma página de loja de tênis, com login simulado"/></a>
+  <a href="https://github.com/Braga93/braga_effects_library"><img src="https://raw.githubusercontent.com/Braga93/Braga93/graficos/projeto_braga_effects_library.svg" width="49%" alt="braga_effects_library: biblioteca aberta de efeitos CSS e utilitários JavaScript em português"/></a>
+  <a href="https://github.com/Braga93/nike_site_js"><img src="https://raw.githubusercontent.com/Braga93/Braga93/graficos/projeto_nike_site_js.svg" width="49%" alt="nike_site_js: réplica autoral de uma página de loja de tênis, com login simulado"/></a>
 </div>
 
 <div align="center">
