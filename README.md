@@ -1,141 +1,117 @@
-<!-- ============================================================ -->
-<!--                        BANNER IMAGE                         -->
-<!--   📸 PHOTO TIP → Use Image 1 (dark gothic cathedral)        -->
-<!--   Replace the src below with your hosted image URL          -->
-<!-- ============================================================ -->
 <div align="center">
-  <img src="https://github.com/Braga93/Braga93/blob/main/banner%20head.png" width="100%" alt="Yharnam at night"/>
+  <img src="assets/banner_cabecalho.png" width="100%" alt="Catedral gótica sob a lua, banner do perfil"/>
 </div>
 
 <br/>
 
-<!-- TYPING TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Fear+the+old+blood.;May+you+find+your+Worth+in+the+Walking+World.;We+are+born+of+the+blood." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=760&lines=Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;Temam+o+sangue+antigo.;Que+voc%C3%AA+encontre+seu+valor+no+Mundo+Desperto.;Nascemos+do+sangue." alt="Frases animadas do perfil"/>
 </div>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=flat-square&logo=vercel&logoColor=c9a84c)](https://SEU_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-braga-6131b9253/)
 [![GitHub](https://img.shields.io/badge/GITHUB-161b22?style=flat-square&logo=github&logoColor=c9a84c)](https://github.com/Braga93)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Braga93&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## The Hunter's Ledger
+## O Registro do Caçador
 
-<img align="right" width="240px" src="https://github.com/Braga93/Braga93/blob/main/7d942979ec25eaa861c49eece484fe4c.jpg?raw=true" alt="The Hunter"/>
+<img align="right" width="240px" src="assets/cacador.jpg" alt="O Caçador, ilustração sombria de um caçador de chapéu e máscara"/>
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
+> *"Nascemos do sangue, feitos homens pelo sangue, desfeitos pelo sangue."*
 
-**Full-Stack Developer** forged in the flames of countless builds and debug sessions — proficient across the entire stack, from pixel-perfect interfaces to robust server-side logic.
+**Estudante de desenvolvimento full-stack** em Fortaleza, CE, construindo a base do ofício um projeto por vez: **HTML**, **CSS** e **JavaScript** no centro, com **Git** e **GitHub** no dia a dia.
 
-Currently sharpening my blade in **JavaScript**, **React**, **Node.js** and **Express.js**, weaving these tools into real-world projects — APIs, automation bots, web platforms and test suites.
+Meus projetos vão de exercícios do curso até uma **biblioteca aberta de efeitos CSS**, que criei para quem está começando como eu comecei: perdido e sem rota. Os repositórios mais antigos ficam à mostra de propósito, porque mostram de onde eu parti e o quanto já andei.
 
-I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and **Git** with confidence, and I refuse to go hollow no matter how deep the rabbit hole goes.
+Estudando agora: **React**, **Node.js** e **Express.js**.
 
 ```
-◈  Class      →  Full-Stack Developer (Front-End · Back-End)
-◈  Origin     →  Brazil 🇧🇷
-◈  Covenant   →  Open Source
-◈  Build      →  INT / DEX / STR
-◈  Loadout    →  JS · React · Node · Express · Cypress
-◈  Status     →  Hunting bugs. Refusing to go hollow.
+◈  Classe        →  Desenvolvedor Full-Stack em formação
+◈  Origem        →  Fortaleza, Brasil 🇧🇷
+◈  Aliança       →  Código aberto
+◈  Atributos     →  INT / DES / FOR
+◈  Equipamento   →  HTML · CSS · JavaScript · Git
+◈  Situação      →  Caçando bugs. Recusando-me a ficar oco.
 ```
 
 <br clear="right"/>
 
 ---
 
-## ⚔️ Arsenal — Technologies
+## ⚔️ Arsenal — Tecnologias
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+**Em uso**
+
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
-![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express&logoColor=c9a84c)
 ![NPM](https://img.shields.io/badge/NPM-111?style=for-the-badge&logo=npm&logoColor=c9a84c)
-![DOM](https://img.shields.io/badge/DOM-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![REST API](https://img.shields.io/badge/REST_API-111?style=for-the-badge&logo=fastapi&logoColor=c9a84c)
-![Cypress](https://img.shields.io/badge/Cypress-111?style=for-the-badge&logo=cypress&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
 
-</div>
+**Estudando**
 
----
-
-## 📊 The Hunt's Record — Statistics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-zeta-plum.vercel.app?user=Braga93&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats-three-brown-69.vercel.app/api?username=Braga93&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false&rank_icon=github"/>
-  <img height="195" src="https://github-readme-stats-three-brown-69.vercel.app/api/top-langs/?username=Braga93&layout=donut&langs_count=6&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&exclude_repo=github-readme-stats,github-readme-activity-graph,github-readme-streak-stats&cache_seconds=1800"/>
-</div>
-
----
-
-## 📜 Blood Trail — Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph-one-liart.vercel.app/graph?username=Braga93&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/Braga93)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=888888)
+![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express&logoColor=888888)
+![Cypress](https://img.shields.io/badge/Cypress-111?style=for-the-badge&logo=cypress&logoColor=888888)
 
 </div>
 
 ---
 
-<!-- SCENE DIVIDER IMAGE -->
-<!--   📸 PHOTO TIP → Use Image 2 (moonlit manor with fog)        -->
-<!--   Best placement: right here, between sections as a divider  -->
+## 📊 O Registro da Caçada — Estatísticas
+
 <div align="center">
-  <img src="https://github.com/Braga93/Braga93/blob/main/banner%20foot.png" width="85%" alt="Scene from the Hunt"/>
+  <img src="assets/resumo.svg" width="49%" alt="Resumo: repositórios públicos, commits no último ano e sequências de dias"/>
+  <img src="assets/linguagens.svg" width="49%" alt="Linguagens mais usadas nos repositórios públicos"/>
 </div>
 
 ---
 
-## 🕯️ Bonfires Lit — Education
+## 📜 Contribuições
 
-| | Course | Platform | Status |
+<div align="center">
+  <img src="assets/atividade.svg" width="100%" alt="Calendário de contribuições dos últimos 12 meses"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="assets/banner_rodape.png" width="85%" alt="Mansão sob a lua, entre árvores secas e névoa"/>
+</div>
+
+---
+
+## 🕯️ Fogueiras Acesas — Formação
+
+| | Curso | Onde | Situação |
 |:---:|:---|:---:|:---:|
-| ◈ | HTML5 | Digital College | 🔄 In Progress |
-| ◈ | Javascript | Platform | 🔄 In Progress |
-| ◈ | CSS | Platform | 🔄 In Progress |
-| ◈ | React | Platform | 🔄 In Progress |
+| ◈ | HTML5 | Digital College | 🔄 Em andamento |
+| ◈ | CSS | Digital College | 🔄 Em andamento |
+| ◈ | JavaScript | Digital College | 🔄 Em andamento |
 
 ---
 
-## 🗡️ Featured Projects — The Grimoire
+## 🗡️ Grimório — Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/Braga93/braga_effects_library"><img src="assets/projeto_braga_effects_library.svg" width="49%" alt="braga_effects_library: biblioteca aberta de efeitos CSS e utilitários JavaScript em português"/></a>
+  <a href="https://github.com/Braga93/nike_site_js"><img src="assets/projeto_nike_site_js.svg" width="49%" alt="nike_site_js: réplica autoral de uma página de loja de tênis, com login simulado"/></a>
+</div>
 
 <div align="center">
 
-[![Site-Nike](https://github-readme-stats-three-brown-69.vercel.app/api/pin/?username=Braga93&repo=Site-Nike&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Braga93/Site-Nike)
-
-[![braga-effects-library](https://github-readme-stats-three-brown-69.vercel.app/api/pin/?username=Braga93&repo=braga-effects-library&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Braga93/braga-effects-library)
+[Ver todos os repositórios →](https://github.com/Braga93?tab=repositories)
 
 </div>
 
@@ -143,10 +119,10 @@ I also wield **HTML5**, **CSS3**, **DOM manipulation**, **NPM**, **Cypress** and
 
 <div align="center">
 
-*† We are born of the blood. Made men by the blood. Undone by the blood. †*
+*† Nascemos do sangue. Feitos homens pelo sangue. Desfeitos pelo sangue. †*
 
 <br/>
 
-*† Seek Paleblood to transcend the Hunt †*
+*† Busque o Sangue Pálido para transcender a Caçada †*
 
 </div>
