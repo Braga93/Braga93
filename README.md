@@ -83,12 +83,6 @@ Já estudei e domino **React**, **Node.js** e **Express.js**.
 
 ---
 
-<div align="center">
-  <img src="assets/banner_rodape.png" width="85%" alt="Mansão sob a lua, entre árvores secas e névoa"/>
-</div>
-
----
-
 ## 🕯️ Fogueiras Acesas — Formação
 
 | | Curso | Onde | Situação |
@@ -114,6 +108,12 @@ Já estudei e domino **React**, **Node.js** e **Express.js**.
 </div>
 
 ---
+
+<div align="center">
+  <img src="assets/banner_rodape.png" width="85%" alt="Mansão sob a lua, entre árvores secas e névoa"/>
+</div>
+
+<br/>
 
 <div align="center">
 
