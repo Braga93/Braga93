@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Training;Fear+the+old+blood.;May+you+find+your+Worth+in+the+Walking+World.;We+are+born+of+the+blood." alt="Frases animadas do perfil"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Fear+the+old+blood.;May+you+find+your+Worth+in+the+Walking+World.;We+are+born+of+the+blood." alt="Frases animadas do perfil"/>
 </div>
 
 <br/>
@@ -29,14 +29,14 @@
 
 Meus projetos vão de exercícios do curso até uma **biblioteca aberta de efeitos CSS**, que criei para quem está começando como eu comecei: perdido e sem rota. Os repositórios mais antigos ficam à mostra de propósito, porque mostram de onde eu parti e o quanto já andei.
 
-Estudando agora: **React**, **Node.js** e **Express.js**.
+Já estudei e domino **React**, **Node.js** e **Express.js**.
 
 ```
-◈  Classe        →  Desenvolvedor Full-Stack em formação
+◈  Classe        →  Desenvolvedor Full-Stack (Front-End · Back-End)
 ◈  Origem        →  Fortaleza, Brasil 🇧🇷
 ◈  Aliança       →  Código aberto
 ◈  Atributos     →  INT / DES / FOR
-◈  Equipamento   →  HTML · CSS · JavaScript · Git
+◈  Equipamento   →  JS · React · Node · Express · Cypress
 ◈  Situação      →  Caçando bugs. Recusando-me a ficar oco.
 ```
 
@@ -48,22 +48,19 @@ Estudando agora: **React**, **Node.js** e **Express.js**.
 
 <div align="center">
 
-**Em uso**
-
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
+![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express&logoColor=c9a84c)
 ![NPM](https://img.shields.io/badge/NPM-111?style=for-the-badge&logo=npm&logoColor=c9a84c)
+![DOM](https://img.shields.io/badge/DOM-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
+![REST API](https://img.shields.io/badge/REST_API-111?style=for-the-badge&logo=fastapi&logoColor=c9a84c)
+![Cypress](https://img.shields.io/badge/Cypress-111?style=for-the-badge&logo=cypress&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
-
-**Estudando**
-
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=888888)
-![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express&logoColor=888888)
-![Cypress](https://img.shields.io/badge/Cypress-111?style=for-the-badge&logo=cypress&logoColor=888888)
 
 </div>
 
@@ -96,9 +93,10 @@ Estudando agora: **React**, **Node.js** e **Express.js**.
 
 | | Curso | Onde | Situação |
 |:---:|:---|:---:|:---:|
-| ◈ | HTML5 | Digital College | 🔄 Em andamento |
-| ◈ | CSS | Digital College | 🔄 Em andamento |
-| ◈ | JavaScript | Digital College | 🔄 Em andamento |
+| ◈ | HTML5 | Digital College | ✅ Concluído |
+| ◈ | CSS | Digital College | ✅ Concluído |
+| ◈ | JavaScript | Digital College | ✅ Concluído |
+| ◈ | React | Plataforma | ✅ Concluído |
 
 ---
 
