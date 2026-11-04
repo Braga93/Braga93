@@ -9,7 +9,7 @@ text { font-family: 'IM Fell English SC', Georgia, 'Times New Roman', serif; }
 .o { fill: #c9a84c; font-size: 11px; }
 </style>
 <rect x="0.5" y="0.5" width="811" height="213" rx="8" fill="#0d0d0d" stroke="#2a2a2a"/>
-<text x="20" y="30" class="t">◈ Contribuições · 55 no último ano</text>
+<text x="20" y="30" class="t">◈ Contribuições · 56 no último ano</text>
 <line x1="20" y1="42" x2="792" y2="42" stroke="#c9a84c" stroke-opacity="0.35"/>
 <text x="20" y="70" class="f">nov</text>
 <text x="76" y="70" class="f">dez</text>
@@ -391,5 +391,5 @@ text { font-family: 'IM Fell English SC', Georgia, 'Times New Roman', serif; }
 <rect x="748" y="78" width="11" height="11" rx="2" fill="#161616"><title>0 contribuições em 01/11/2026</title></rect>
 <rect x="748" y="92" width="11" height="11" rx="2" fill="#161616"><title>0 contribuições em 02/11/2026</title></rect>
 <rect x="748" y="106" width="11" height="11" rx="2" fill="#a68a3a"><title>13 contribuições em 03/11/2026</title></rect>
-<rect x="748" y="120" width="11" height="11" rx="2" fill="#3a2f12"><title>2 contribuições em 04/11/2026</title></rect><rect x="692" y="182" width="11" height="11" rx="2" fill="#161616"/><rect x="706" y="182" width="11" height="11" rx="2" fill="#3a2f12"/><rect x="720" y="182" width="11" height="11" rx="2" fill="#6b5620"/><rect x="734" y="182" width="11" height="11" rx="2" fill="#a68a3a"/><rect x="748" y="182" width="11" height="11" rx="2" fill="#c9a84c"/><text x="684" y="192" class="f" text-anchor="end">menos</text><text x="766" y="192" class="f">mais</text>
+<rect x="748" y="120" width="11" height="11" rx="2" fill="#3a2f12"><title>3 contribuições em 04/11/2026</title></rect><rect x="692" y="182" width="11" height="11" rx="2" fill="#161616"/><rect x="706" y="182" width="11" height="11" rx="2" fill="#3a2f12"/><rect x="720" y="182" width="11" height="11" rx="2" fill="#6b5620"/><rect x="734" y="182" width="11" height="11" rx="2" fill="#a68a3a"/><rect x="748" y="182" width="11" height="11" rx="2" fill="#c9a84c"/><text x="684" y="192" class="f" text-anchor="end">menos</text><text x="766" y="192" class="f">mais</text>
 </svg>
