@@ -39,3 +39,11 @@ jobs:
           git add .
           git commit -q -m "Gráficos do perfil"
           git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" graficos
+
+      - name: Limpar o cache de imagens do GitHub
+        run: |
+          sleep 20
+          curl -s "https://github.com/${{ github.repository_owner }}" \
+            | grep -oE 'https://camo\.githubusercontent\.com/[^"]+' \
+            | sort -u \
+            | xargs -r -n1 curl -s -o /dev/null -X PURGE
