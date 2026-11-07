@@ -42,8 +42,9 @@ jobs:
 
       - name: Limpar o cache de imagens do GitHub
         run: |
-          sleep 20
-          curl -s "https://github.com/${{ github.repository_owner }}" \
-            | grep -oE 'https://camo\.githubusercontent\.com/[^"]+' \
-            | sort -u \
-            | xargs -r -n1 curl -s -o /dev/null -X PURGE
+          sleep 310
+          urls=$(curl -s "https://github.com/${{ github.repository_owner }}" | grep -oE 'https://camo\.githubusercontent\.com/[^"]+' | sort -u)
+          echo "Imagens encontradas: $(echo "$urls" | grep -c camo)"
+          for url in $urls; do
+            echo "$(curl -s -o /dev/null -w '%{http_code}' -X PURGE "$url") $url"
+          done
