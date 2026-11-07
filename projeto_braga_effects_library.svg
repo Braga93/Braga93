@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="175" viewBox="0 0 410 175" role="img" aria-label="Projeto em destaque: braga_effects_library">
+<title>Projeto em destaque: braga_effects_library</title>
+<style>
+text { font-family: 'IM Fell English SC', Georgia, 'Times New Roman', serif; }
+.t { fill: #c9a84c; font-size: 15px; letter-spacing: 1.5px; }
+.n { fill: #cccccc; font-size: 13px; }
+.f { fill: #888888; font-size: 11px; }
+.g { fill: #c9a84c; font-size: 30px; }
+.o { fill: #c9a84c; font-size: 11px; }
+</style>
+<rect x="0.5" y="0.5" width="409" height="174" rx="8" fill="#0d0d0d" stroke="#2a2a2a"/>
+<text x="20" y="30" class="t">◈ braga_effects_library</text>
+<line x1="20" y1="42" x2="390" y2="42" stroke="#c9a84c" stroke-opacity="0.35"/>
+<text x="20" y="70" class="n">Biblioteca aberta de efeitos CSS e utilitários</text>
+<text x="20" y="90" class="n">JavaScript em português, criada para quem está</text>
+<text x="20" y="110" class="n">começando e não sabe por onde partir.</text>
+<rect x="20" y="138" width="39" height="20" rx="10" fill="none" stroke="#c9a84c" stroke-opacity="0.5"/><text x="39.5" y="152" class="o" text-anchor="middle">CSS</text>
+<rect x="67" y="138" width="88" height="20" rx="10" fill="none" stroke="#c9a84c" stroke-opacity="0.5"/><text x="111.0" y="152" class="o" text-anchor="middle">JavaScript</text>
+<rect x="163" y="138" width="39" height="20" rx="10" fill="none" stroke="#c9a84c" stroke-opacity="0.5"/><text x="182.5" y="152" class="o" text-anchor="middle">npm</text>
+<rect x="210" y="138" width="39" height="20" rx="10" fill="none" stroke="#c9a84c" stroke-opacity="0.5"/><text x="229.5" y="152" class="o" text-anchor="middle">MIT</text>
+</svg>
