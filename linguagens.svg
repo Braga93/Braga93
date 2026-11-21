@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Linguagens mais usadas nos repositórios públicos">
+<title>Linguagens mais usadas nos repositórios públicos</title>
+<style>
+text { font-family: 'IM Fell English SC', Georgia, 'Times New Roman', serif; }
+.t { fill: #c9a84c; font-size: 15px; letter-spacing: 1.5px; }
+.n { fill: #cccccc; font-size: 13px; }
+.f { fill: #888888; font-size: 11px; }
+.g { fill: #c9a84c; font-size: 30px; }
+.o { fill: #c9a84c; font-size: 11px; }
+</style>
+<rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#0d0d0d" stroke="#2a2a2a"/>
+<text x="20" y="30" class="t">◈ Arsenal em uso · Linguagens</text>
+<line x1="20" y1="42" x2="475" y2="42" stroke="#c9a84c" stroke-opacity="0.35"/>
+<circle cx="26" cy="77" r="5" fill="#c9a84c"/><text x="40" y="82" class="n">JavaScript</text><text x="250" y="82" class="f" text-anchor="end">44,6%</text>
+<circle cx="26" cy="101" r="5" fill="#8e2b2b"/><text x="40" y="106" class="n">CSS</text><text x="250" y="106" class="f" text-anchor="end">26,0%</text>
+<circle cx="26" cy="125" r="5" fill="#e3d9bd"/><text x="40" y="130" class="n">Python</text><text x="250" y="130" class="f" text-anchor="end">16,4%</text>
+<circle cx="26" cy="149" r="5" fill="#7a6428"/><text x="40" y="154" class="n">HTML</text><text x="250" y="154" class="f" text-anchor="end">12,7%</text>
+<circle cx="26" cy="173" r="5" fill="#4f5b66"/><text x="40" y="178" class="n">Dockerfile</text><text x="250" y="178" class="f" text-anchor="end">0,2%</text>
+<circle cx="400" cy="120" r="44" fill="none" stroke="#161616" stroke-width="16"/>
+<circle cx="400" cy="120" r="44" fill="none" stroke="#c9a84c" stroke-width="16" stroke-dasharray="121.44 155.02" stroke-dashoffset="-0.00" transform="rotate(-90 400 120)"/>
+<circle cx="400" cy="120" r="44" fill="none" stroke="#8e2b2b" stroke-width="16" stroke-dasharray="69.89 206.57" stroke-dashoffset="-123.44" transform="rotate(-90 400 120)"/>
+<circle cx="400" cy="120" r="44" fill="none" stroke="#e3d9bd" stroke-width="16" stroke-dasharray="43.46 233.00" stroke-dashoffset="-195.33" transform="rotate(-90 400 120)"/>
+<circle cx="400" cy="120" r="44" fill="none" stroke="#7a6428" stroke-width="16" stroke-dasharray="33.23 243.23" stroke-dashoffset="-240.78" transform="rotate(-90 400 120)"/>
+<circle cx="400" cy="120" r="44" fill="none" stroke="#4f5b66" stroke-width="16" stroke-dasharray="0.50 275.96" stroke-dashoffset="-276.01" transform="rotate(-90 400 120)"/>
+</svg>
